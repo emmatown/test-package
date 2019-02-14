@@ -1,0 +1,12 @@
+labels:
+  "merge when passing": merge
+  "needs reproduction":
+    comment: |
+      Hey there 👋
+
+      It looks like you're trying to report an issue without a minimal reproduction. Maintainers only have a finite amount of time and we can't to help as many people as possible if we don't have reproductions that we can easily run.
+
+      There are a couple ways you can provide a minimal reproduction, the easiest and preferred method is [CodeSandbox](https://codesandbox.io). If a CodeSandbox isn't suitable, a GitHub repo with a reproduction also works.
+
+merges:
+  - action: delete_branch
