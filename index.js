@@ -1,1 +1,1 @@
-module.exports = () => 'hotpink'
+module.exports = () => 'hotpink';
